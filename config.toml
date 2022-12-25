@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Creative portfolio"
+title = "Sapfo Leathergoods"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "Sapfo Leathergoods"
   copyright = "&copy;2016 Sapfo Leathergoods"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Hello, I am Sapfo and I am crafting leathergoods.",
+    "I live and create everything by hand in Athens."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
