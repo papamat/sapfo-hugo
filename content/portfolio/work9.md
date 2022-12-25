@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "img/portfolio/envelope-brand.jpg"
-showonlyimage = false
+showonlyimage = true
 date = "2016-11-05T20:02:19+05:30"
 title = "Item with image"
 weight = 9

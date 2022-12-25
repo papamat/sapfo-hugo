@@ -1,9 +1,9 @@
 +++
 draft = false
-image = ""
-showonlyimage = false
+image = "img/portfolio/business-card-26.jpg"
+showonlyimage = true
 date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
+title = "Bla bla 4"
 weight = 4
 +++
 
