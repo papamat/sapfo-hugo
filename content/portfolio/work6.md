@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/prisma_6.jpg"
 showonlyimage = true
 date = "2016-11-05T19:56:17+05:30"
 title = "Name of the work 6"
