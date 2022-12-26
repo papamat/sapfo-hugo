@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Bla Bla 2"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/lilika_2.png"
 showonlyimage = true
 weight = 1
 +++
