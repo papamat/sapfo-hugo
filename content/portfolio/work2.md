@@ -14,6 +14,8 @@ Far far away, behind the word mountains, far from the countries Vokalia and Cons
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
+![This is Lilika][1]
+
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
 
@@ -29,3 +31,5 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Aliquam tincidunt mauris eu risus.
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+
+[1]: img/portfolio/lilika_2.png
