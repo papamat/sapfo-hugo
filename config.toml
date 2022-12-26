@@ -14,6 +14,7 @@ googleAnalytics = ""
   description = "Sapfo"
   copyright = "&copy;2016 Sapfo Leathergoods"
   sidebarAbout = [
+    "Leathergoods",
     "Hello, I am Sapfo and I am crafting leathergoods.",
     "I live and create everything by hand in Athens."
   ]
