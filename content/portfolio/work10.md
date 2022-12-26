@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/trifold.jpg"
+image = "img/portfolio/fakelos_10.jpg"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
 title = "Item with image 10"
