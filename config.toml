@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Sapfo Leathergoods"
+  description = "Sapfo"
   copyright = "&copy;2016 Sapfo Leathergoods"
   sidebarAbout = [
     "Hello, I am Sapfo and I am crafting leathergoods.",
