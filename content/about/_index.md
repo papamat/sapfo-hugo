@@ -3,19 +3,13 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+My name is Fay Exarchou and I created this brand in 2022 when I finished my basic leathercrafting sessions and started crafting minimal leather goods. My intention is to design, produce, deliver and promote my minimalistic, handmade, leather creations while achieving a balanced and creative woklife, after quitting the corporate lifestyle. Taking into consideration that as long as people consume animals, leather is a sustainable, versatile, recyclable and repairable natural material, I seek the best resources to deliver simple yet beautiful designs that will last for many many years.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+What I like to work with the most are handbags, mini bags, stationary accessories and small leather surprises. Take a look at the collection or contact me to discuss the possibility of a customized solution, only for you. 
 
 ![This is me][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Please, keep in mind that leather is a natural material and my products are completely handmade, therefore, there might be differences between the products in the photos and in real life. 
 
-#### Education
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
 
 [1]: /img/about.png
