@@ -3,11 +3,11 @@ draft = false
 image = "img/portfolio/Kalathi.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
-title = "Pougki"
+title = "Kalathi"
 weight = 11
 +++
 
-Pougki is a leather bucket with a firm bottom and metal components. It can be ordered with a long strap or a shorter and wider one, depending on what works best for you.
+Kalathi is a leather bucket with a firm bottom and metal components. There is also a snap button to let you adjust its shape and opening. Super minimalistic design, spacious and handy for all day long. 
 <!--more-->
 
 ![This is Lilika][1]
