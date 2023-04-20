@@ -7,7 +7,7 @@ draft = false
 weight = 7
 +++
 
-As a stationary lover myself, I could not but create a lether pen case for my markers and favourite pens. Choose your colour and make it yours. 
+As a stationary lover myself, I could not but create a leather pen case for my markers and favourite pens. Choose your colour and make it yours. 
 
 ![This is Lilika][1]
 
